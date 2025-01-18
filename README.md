@@ -2,7 +2,7 @@
 ### Aspiring Data Analyst  
 
 🌟 **About Me**  
-- 🎓 **Education**: Mangalore University 
+
 - 🛠️ **Skills**: SQL, Excel, Power BI, Tableau, Python  
 ---
 
