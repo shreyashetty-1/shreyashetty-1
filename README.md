@@ -10,26 +10,15 @@
 
 ## 💼 **Experience**
 ### Software Associate
-- Capgemini 
-
+- Capgemini
+- 
 ---
 
 ## 📘 **Training**
 ### Data Analyst Program
 - **Institution**:Invact  
-- **Topics Covered**:  
-  - Data Wrangling and Cleaning  
-  - Exploratory Data Analysis  
-  - Visualization with Power BI/Tableau
 
-    ---
-
-## 🧠 **Skills**
-- **Hard Skills**: Python, SQL, Excel, Data Visualization (Power BI/Tableau),   
-- **Soft Skills**: Problem-solving, Communication  
- 
-
----
+ ---
 
 ## 📜 **Certifications**
 - Google Data Analytics Professional Certificate
