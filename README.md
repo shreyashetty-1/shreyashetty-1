@@ -2,19 +2,15 @@
 ### Aspiring Data Analyst  
 
 🌟 **About Me**  
-
-- 🛠️ **Skills**: SQL, Excel, Power BI, Tableau, Python  
 ---
-
 ## 📘 **Training**
 ### Data Analyst Program
-- **Institution**: Invact  
+- **Institution**: Invact
+- 🛠️ **Skills**-SQL, Excel, Power BI, Tableau, Python  
  ---
-
 ## 📜 **Certifications**
 - Google Data Analytics Specialization 
 ---
-
 ## 📧 **Contact Me**
 - LinkedIn: https://www.linkedin.com/in/shreya-shetty-070037245/   
 
