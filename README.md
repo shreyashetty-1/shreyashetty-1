@@ -8,7 +8,7 @@
 
 ## 📘 **Training**
 ### Data Analyst Program
-- **Institution**:Invact  
+- **Institution**: Invact  
  ---
 
 ## 📜 **Certifications**
