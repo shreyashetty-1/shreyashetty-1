@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm SHREYA!  
+### Aspiring Data Analyst  
 
-<!--
-**shreyashetty-1/shreyashetty-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **About Me**  
+- 🎓 **Education**: Mangalore University 
+- 🛠️ **Skills**: SQL, Excel, Power BI, Tableau, Python  
+- 🎯 **Goal**: Transition into a Analyst role
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 **Experience**
+### Software Associate
+- Capgemini 
+
+---
+
+## 📘 **Training**
+### Data Analyst Program
+- **Institution**:Invact  
+- **Topics Covered**:  
+  - Data Wrangling and Cleaning  
+  - Exploratory Data Analysis  
+  - Visualization with Power BI/Tableau
+
+    ---
+
+## 🧠 **Skills**
+- **Hard Skills**: Python, SQL, Excel, Data Visualization (Power BI/Tableau),   
+- **Soft Skills**: Problem-solving, Communication  
+ 
+
+---
+
+## 📜 **Certifications**
+- Google Data Analytics Professional Certificate
+
+---
+
+## 📧 **Contact Me**
+- LinkedIn: https://www.linkedin.com/in/shreya-shetty-070037245/   
+
+
