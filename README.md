@@ -4,12 +4,6 @@
 🌟 **About Me**  
 - 🎓 **Education**: Mangalore University 
 - 🛠️ **Skills**: SQL, Excel, Power BI, Tableau, Python  
-- 🎯 **Goal**: Transition into a Analyst role
----
-
-## 💼 **Experience**
-### Software Associate
-- Capgemini
 ---
 
 ## 📘 **Training**
