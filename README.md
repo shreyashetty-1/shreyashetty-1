@@ -16,11 +16,11 @@
 ---
 
 ## 📂 **Project**
-- https://public.tableau.com/app/profile/shreyashetty./vizzes
-- https://github.com/shreyashetty-1/PowerBI-.git
-- https://github.com/shreyashetty-1/Excel.git
-- https://github.com/shreyashetty-1/Financial-Analysis.git
-- [LinkdIn](https://github.com/shreyashetty-1/PowerBI-.git)
+- [Tableau](https://public.tableau.com/app/profile/shreyashetty./vizzes)
+- [PowerBI](https://github.com/shreyashetty-1/PowerBI-.git)
+- [Excel](https://github.com/shreyashetty-1/Excel.git)
+- [Financial Analysis](https://github.com/shreyashetty-1/Financial-Analysis.git)
+
  
 
 
