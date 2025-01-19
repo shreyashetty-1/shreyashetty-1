@@ -23,9 +23,4 @@
  
   ---
 
-## 📧 **Connect with Me**
-
--  https://www.linkedin.com/in/shreya-shetty-070037245/   
-
----
 
