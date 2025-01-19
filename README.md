@@ -1,4 +1,4 @@
-# Hi, I'm SHREYA!  
+# Hi, I'm SHREYA   
 ### Aspiring Data Analyst  
 
 ---
