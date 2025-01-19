@@ -3,19 +3,19 @@
 
 ---
 
-## 📘 **`Learning Experience`**
+## `📘` **`Learning Experience`**
 ### `Data Analytics Training`
 - **Institution**: Invact
 - **Skills**: SQL, Excel, Power BI, Tableau, Python  
 
  ---
  
-## 📜 **`Certifications`**
+## `📜` **`Certifications`**
 - Google Data Analytics Professional Certificate
 
 ---
 
-## 📂 **`Project`**
+## `📂` **`Project`**
 - [Tableau](https://public.tableau.com/app/profile/shreyashetty./vizzes)
 - [PowerBI](https://github.com/shreyashetty-1/PowerBI-.git)
 - [Excel](https://github.com/shreyashetty-1/Excel.git)
@@ -23,7 +23,7 @@
 
    ---
 
-## 📧 **`Connect with Me`** 
+## `📧` **`Connect with Me`** 
 - [LinkdIn](https://www.linkedin.com/in/shreya-shetty-070037245/)
 
 
