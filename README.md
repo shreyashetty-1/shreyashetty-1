@@ -6,7 +6,7 @@
 ## 📘 **Training**
 ### Data Analyst Program
 - **Institution**: Invact
-- 🛠**Skills**-SQL, Excel, Power BI, Tableau, Python  
+- **Skills**: SQL, Excel, Power BI, Tableau, Python  
 
  ---
  
@@ -15,7 +15,7 @@
 
 ---
 
-## 📧 **Contact Me**
+## 📧 **Connect Me**
 - LinkedIn: https://www.linkedin.com/in/shreya-shetty-070037245/   
 
 
