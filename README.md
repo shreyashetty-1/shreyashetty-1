@@ -1,6 +1,5 @@
 # `Hi, I'm SHREYA`   
 ### `Aspiring Data Analyst`
-<span style="color: red;">dfghj</span>
 
 ---
 
