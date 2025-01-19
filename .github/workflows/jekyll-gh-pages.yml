@@ -1,6 +1,0 @@
-theme: minima
-sass:
-  style: compressed
-plugins:
-  - jekyll-feed
-  - jekyll-sass-converter
