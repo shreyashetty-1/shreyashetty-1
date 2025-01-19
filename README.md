@@ -1,5 +1,8 @@
 # `Hi, I'm SHREYA`   
 ### `Aspiring Data Analyst`
+# Hi, I'm <span style="color: #6A5ACD;">SHREYA!</span>
+
+### <span style="color: teal;">Aspiring Data Analyst</span>
 
 ---
 
