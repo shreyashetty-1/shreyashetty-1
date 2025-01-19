@@ -1,5 +1,5 @@
 # `Hi, I'm SHREYA`   
-## `Aspiring Data Analyst`
+### `Aspiring Data Analyst`
 
 ---
 
