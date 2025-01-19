@@ -15,7 +15,16 @@
 
 ---
 
-## 📧 **Connect Me**
+📂 Projects
+Tableau Public Profile
+
+Power BI Project
+
+Excel Project
+
+Financial Analysis
+
+## 📧 **Connect with Me**
 - LinkedIn: https://www.linkedin.com/in/shreya-shetty-070037245/   
 
 ---
