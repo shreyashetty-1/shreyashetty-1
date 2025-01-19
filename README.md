@@ -16,7 +16,7 @@
 ---
 
 ## `📂` **`Project`**
- [Tableau](https://public.tableau.com/app/profile/shreyashetty./vizzes)
+ `[Tableau](https://public.tableau.com/app/profile/shreyashetty./vizzes)`
  [PowerBI](https://github.com/shreyashetty-1/PowerBI-.git)
  [Excel](https://github.com/shreyashetty-1/Excel.git)
  [Financial Analysis](https://github.com/shreyashetty-1/Financial-Analysis.git)
