@@ -16,7 +16,7 @@
 ---
 
 ## 📂 **Project**
-- [ LinkedIn ] (https://public.tableau.com/app/profile/shreyashetty./vizzes)
+- https://public.tableau.com/app/profile/shreyashetty./vizzes
 - https://github.com/shreyashetty-1/PowerBI-.git
 - https://github.com/shreyashetty-1/Excel.git
 - https://github.com/shreyashetty-1/Financial-Analysis.git
