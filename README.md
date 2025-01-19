@@ -11,19 +11,20 @@
  ---
  
 ## 📜 **Certifications**
-- Google Data Analytics Specialization 
+- Google Data Analytics Professional Certificate
 
 ---
 
-📂 Projects
-## **Project**
+## 📂 **Project**
 - https://public.tableau.com/app/profile/shreyashetty.
 - https://github.com/shreyashetty-1/PowerBI-.git
 - https://github.com/shreyashetty-1/Excel.git
 - https://github.com/shreyashetty-1/Financial-Analysis.git
 
+  ---
 
 ## 📧 **Connect with Me**
+
 - LinkedIn: https://www.linkedin.com/in/shreya-shetty-070037245/   
 
 ---
