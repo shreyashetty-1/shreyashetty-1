@@ -16,11 +16,11 @@
 ---
 
 ## 📂 **Project**
-- https://public.tableau.com/app/profile/shreyashetty.
+- https://public.tableau.com/app/profile/shreyashetty./vizzes
 - https://github.com/shreyashetty-1/PowerBI-.git
 - https://github.com/shreyashetty-1/Excel.git
 - https://github.com/shreyashetty-1/Financial-Analysis.git
-  LinkedIn Profile 
+ 
   ---
 
 ## 📧 **Connect with Me**
