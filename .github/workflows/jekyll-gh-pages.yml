@@ -1,26 +1,6 @@
-title: "Shreya's Data Analyst Portfolio"
-description: "Welcome to my personal portfolio where I showcase my work and achievements in data analysis."
-url: "https://github.com/shreyashetty-1/shreyashetty-1/blob/5975ad3d9f8bff04323ae80c4a7d98e7a67e10fa/README.md"  # Update with your GitHub Pages URL
-baseurl: ""  # Leave empty unless using a custom domain
-theme: minima  # You can choose Minima or any other theme you prefer
-
-# Social links
-social_links:
-  linkedin: https://www.linkedin.com/in/shreya-shetty-070037245/
-
-# Build settings
-markdown: kramdown
-highlighter: rouge
-
-# Exclude these files or directories from being processed
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - README.md
-  - .gitignore
-
-# Plugins
+theme: minima
+sass:
+  style: compressed
 plugins:
   - jekyll-feed
+  - jekyll-sass-converter
