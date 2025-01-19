@@ -4,7 +4,7 @@
 ---
 
 ## 📘 **Learning Experience**
-### Data Analyst Program
+### Data Analyst Training
 - **Institution**: Invact
 - **Skills**: SQL, Excel, Power BI, Tableau, Python  
 
