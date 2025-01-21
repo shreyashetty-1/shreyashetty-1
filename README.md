@@ -17,14 +17,14 @@
 
 ## `📂` **`Project`**
 🔗[Tableau](https://public.tableau.com/app/profile/shreyashetty./vizzes)
-- 🔗[PowerBI](https://github.com/shreyashetty-1/PowerBI-.git)
-- 🔗[Excel](https://github.com/shreyashetty-1/Excel.git)
-- 🔗[Financial Analysis](https://github.com/shreyashetty-1/Financial-Analysis.git)
+🔗[PowerBI](https://github.com/shreyashetty-1/PowerBI-.git)
+🔗[Excel](https://github.com/shreyashetty-1/Excel.git)
+🔗[Financial Analysis](https://github.com/shreyashetty-1/Financial-Analysis.git)
 
    ---
 
 ## `📧` **`Connect with Me`** 
-[🔗LinkdIn](https://www.linkedin.com/in/shreya-shetty-070037245/)
+🔗[LinkdIn](https://www.linkedin.com/in/shreya-shetty-070037245/)
 
 
 
