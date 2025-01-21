@@ -24,8 +24,7 @@
    ---
 
 ## `📧` **`Connect with Me`** 
-- [](https://www.linkedin.com/in/shreya-shetty-070037245/)
+[🔗 LinkdIn](https://www.linkedin.com/in/shreya-shetty-070037245/)
 
 
 
-![linkedin][(https://github.com/user-attachments/assets/170f07bd-62aa-4127-9113-f9b72ca14b64](https://www.linkedin.com/in/shreya-shetty-070037245/))
