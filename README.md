@@ -1,9 +1,9 @@
 # Hi, I'm SHREYA 👋  
-### `Aspiring Data Analyst`
 
 ---
 
 ## `📘` **`Learning Experience`**
+ `Data Analytics Training`
 - **Institution**: Invact
 - **Skills**: SQL, Excel, Power BI, Tableau, Python  
 
