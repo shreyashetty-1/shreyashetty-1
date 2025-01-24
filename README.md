@@ -3,7 +3,7 @@
 ---
 
 ## `📘` **`Learning Experience`**
- `Data Analytics Training`
+### `Data Analytics Training`
 - **Institution**: Invact
 - **Skills**: SQL, Excel, Power BI, Tableau, Python  
 
