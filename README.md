@@ -9,7 +9,7 @@
 
  ---
  
-## `📜` **`Certifications`**
+## `📜` **`Certification`**
 - Google Data Analytics Professional Certificate
 
 ---
