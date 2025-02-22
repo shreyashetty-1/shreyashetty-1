@@ -8,10 +8,6 @@
 
  ---
  
-## `📜` **`Certification`**
-- Google Data Analytics Professional Certificate
-
----
 
 ## `📂` **`Project`**                            
 🔗[Financial Analysis](https://github.com/shreyashetty-1/Financial-Analysis.git)                      
