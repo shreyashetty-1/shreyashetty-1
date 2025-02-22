@@ -12,7 +12,7 @@
  
 
 ## `📂` **`Project`**                            
-🔗[Financial Analysis](https://github.com/shreyashetty-1/Financial-Analysis.git)                      
+🔗[Demand Forecasting](https://github.com/shreyashetty-1/Demand-Forecasting.git)                      
 
    ---
 
