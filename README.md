@@ -3,7 +3,13 @@
 
 ## `📘` **`Learning Experience`**
 
-- **Skills**: SQL, Excel, Power BI, Tableau, Python  
+- **Skills**:
+Excel
+[Tableau](https://public.tableau.com/app/profile/shreyashetty./vizzes)
+[PowerBI](https://github.com/shreyashetty-1/PowerBI-.git)                                     
+[SQL](https://github.com/shreyashetty-1/SQL.git)             
+[Python](https://github.com/shreyashetty-1/Python.git)
+
 
  ---
  
@@ -12,11 +18,7 @@
 
 ---
 
-## `📂` **`Project`**
-🔗[Tableau](https://public.tableau.com/app/profile/shreyashetty./vizzes)   
-🔗[PowerBI](https://github.com/shreyashetty-1/PowerBI-.git)                                            
-🔗[SQL](https://github.com/shreyashetty-1/SQL.git)                     
-🔗[Python](https://github.com/shreyashetty-1/Python.git)                                
+## `📂` **`Project`**                            
 🔗[Financial Analysis](https://github.com/shreyashetty-1/Financial-Analysis.git)                      
 
    ---
