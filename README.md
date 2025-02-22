@@ -1,9 +1,7 @@
 # Hi, I'm SHREYA 👋  
 ---
 
-## `📘` **`Learning Experience`**
-
-- **Skills**:                             
+## `📘` **`Learning Experience`** - **Skills**:                             
 [Excel](https://github.com/shreyashetty-1/Financial-Analysis.git)                     
 [Tableau](https://public.tableau.com/app/profile/shreyashetty./vizzes)                
 [PowerBI](https://github.com/shreyashetty-1/PowerBI-.git)                      
