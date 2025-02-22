@@ -6,7 +6,7 @@
 - **Skills**:
 Excel
 [Tableau](https://public.tableau.com/app/profile/shreyashetty./vizzes)
-[PowerBI](https://github.com/shreyashetty-1/PowerBI-.git)                        
+[PowerBI](https://github.com/shreyashetty-1/PowerBI-.git)                 
 [SQL](https://github.com/shreyashetty-1/SQL.git)
 [Python](https://github.com/shreyashetty-1/Python.git)
 
