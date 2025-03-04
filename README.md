@@ -12,7 +12,7 @@
  
 
 ## `📂` **`Project`**                            
-🔗[Demand Forecasting of Sweet and Savoury Delights](https://github.com/shreyashetty-1/Demand-Forecasting.git)                      
+🔗[Demand Forecasting](https://github.com/shreyashetty-1/Demand-Forecasting.git)                      
 
    ---
 
