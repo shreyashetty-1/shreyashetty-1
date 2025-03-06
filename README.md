@@ -1,5 +1,3 @@
-# Hi, I'm SHREYA 👋  
----
 
 ## `📊` **`Learning Experience`**                       
 🔗[Excel](https://github.com/shreyashetty-1/Financial-Analysis.git)                
