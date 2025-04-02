@@ -2,21 +2,21 @@
 ## `📊` **`Learning Experience`**                       
 ## Skills and Tools
 
-### Spreadsheet and Data Organization Tools
+Spreadsheet and Data Organization Tools
 - **Excel**
 - **Advanced Excel**
 - **Google Sheets**
 
-### Data Visualization Tools
+Data Visualization Tools
 - **Power BI**
 - **Tableau**
 - **Looker Studio**
 
-### Programming and Scripting Languages
+Programming and Scripting Languages
 - **Python** (including libraries like **matplotlib** and **pandas**)
 - **SQL**
 
-### Collaborative and Cloud-based Tools
+Collaborative and Cloud-based Tools
 - **Google Colab**
                           
 
