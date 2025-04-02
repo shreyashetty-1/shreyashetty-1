@@ -11,7 +11,7 @@
 - Tableau
 - Looker Studio
 
-`Programming and Scripting Languages`
+`Data Analysis and Manipulation Tools`
 - Python(including libraries like matplotlib & pandas)
 - SQL
 
