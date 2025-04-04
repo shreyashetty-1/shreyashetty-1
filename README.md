@@ -1,6 +1,6 @@
 
 ## `📊` **`Learning Experience`**                       
-## Skills and Tools
+## `Skills and Tools`
 `Spreadsheet and Data Organization Tools`
 - Excel
 - Advanced Excel
