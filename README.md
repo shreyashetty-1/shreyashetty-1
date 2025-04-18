@@ -8,7 +8,7 @@
 
 `Data Visualization Tools`
 - Power BI
-- Tableau
+- [Tableau](https://public.tableau.com/app/profile/shreyashetty./vizzes)
 - Looker Studio
 
 `Data Analysis and Manipulation Tools`
