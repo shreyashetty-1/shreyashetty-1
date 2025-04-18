@@ -19,7 +19,8 @@
 - Google Colab
 
 `Project`
--
+- Demand Forecasting
+- Operation Process Analysis
                           
 ---
  
