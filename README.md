@@ -20,11 +20,6 @@
                           
 ---
  
-## `📂` **`Project`**                            
-            
-🔗[PowerBI](https://github.com/shreyashetty-1/PowerBI-.git)                       
-
-   ---
 
 
 
