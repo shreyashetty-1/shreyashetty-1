@@ -1,10 +1,10 @@
-
 ## `📊` **`Learning Experience`**                       
 ## `Skills and Tools`
 `Spreadsheet and Data Organization Tools`
 - Excel
 - Advanced Excel
 - Google Sheets
+- Microsoft Office Suite
 
 `Data Visualization Tools`
 - Power BI
