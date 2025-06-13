@@ -2,7 +2,6 @@
 ## `Skills and Tools`
 `Spreadsheet and Data Organization Tools`
 - Excel
-- Advanced Excel
 - Google Sheets
 - Microsoft Office Suite
 
