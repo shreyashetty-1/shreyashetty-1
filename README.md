@@ -1,4 +1,4 @@
-## `📊` **`Learning Experience`**                       
+                     
 ## `Skills and Tools`
 `Spreadsheet and Data Organization Tools`
 - Excel
